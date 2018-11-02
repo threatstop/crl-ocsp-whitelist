@@ -1,7 +1,10 @@
 cdn.d-trust-cloudcrl.net
 cdp.elektronicznypodpis.pl
+cdp.pca.dfn.de
 cdp1.disig.sk
+cdp1.pca.dfn.de
 cdp2.disig.sk
+cdp2.pca.dfn.de
 crl-ssl.certificat2.com
 crl.affirmtrust.com
 crl.buypass.no
@@ -55,6 +58,7 @@ gk.symcb.com
 gm.symcb.com
 gn.symcb.com
 pki-crl.atos.net
+pki0336.telesec.de
 public.wisekey.com
 repo1.secomtrust.net
 repository.ev.hinet.net

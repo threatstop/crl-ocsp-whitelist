@@ -17,6 +17,7 @@ gold-ev-g2.ocsp.swisssign.net
 igc-g3.certinomis.com
 jcsitlssignpublicca-ocsp.managedpki.ne.jp
 ocsp-ssl.certificat2.com
+ocsp0336.telesec.de
 ocsp.accv.es
 ocsp.affirmtrust.com
 ocsp.buypass.com
@@ -38,6 +39,7 @@ ocsp.int-x3.letsencrypt.org
 ocsp.izenpe.com
 ocsp.netsolssl.com
 ocsp.ovcf.ca3.infocert.it
+ocsp.pca.dfn.de
 ocsp.pki.goog
 ocsp.quovadisglobal.com
 ocsp.sca0a.amazontrust.com
@@ -47,6 +49,7 @@ ocsp.sca3a.amazontrust.com
 ocsp.sca4a.amazontrust.com
 ocsp.serverpass.telesec.de
 ocsp.starfieldtech.com
+ocsp.telesec.de
 ocsp.trust-provider.com
 ocsp.trustcor.ca
 ocsp.trustwave.com
