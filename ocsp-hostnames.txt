@@ -3,14 +3,11 @@ certumevtlsg2r39ca.ocsp-certum.com
 certumovtlsg2r39ca.ocsp-certum.com
 commercial.ocsp.identrust.com
 eqtlsca2018-ocsp1.e-szigno.hu
-eqtlsca2018-ocsp2.e-szigno.hu
-eqtlsca2018-ocsp3.e-szigno.hu
 ev2.ocsp.secomtrust.net
 evca2.ocsp.certum.pl
 evcasha2.ocsp-certum.com
 evocsp.cybertrust.ne.jp
 evsslocsp.twca.com.tw
-gdcaov.ocsp-certum.com
 o.pki.goog
 ocsp-ica.navercorp.com
 ocsp.accv.es
@@ -29,12 +26,12 @@ ocsp.entrust.net
 ocsp.firmaprofesional.com
 ocsp.global.sheca.com
 ocsp.globalsign.com
-ocsp.globaltrust.eu
 ocsp.godaddy.com
 ocsp.harica.gr
 ocsp.izenpe.com
 ocsp.pca.dfn.de
 ocsp.r2m01.amazontrust.com
+ocsp.r2m04.amazontrust.com
 ocsp.r4m04.amazontrust.com
 ocsp.sectigo.com
 ocsp.serverid.telesec.de
@@ -51,6 +48,7 @@ ocsp09.actalis.it
 ocsp1.eCert.gov.hk
 ocsp1.netlock.hu
 ocsp2.netlock.hu
+ocsp3.gdca.com.cn
 ocsp3.netlock.hu
 ocspcomp.cert.fnmt.es
 ocspfnmtss1.cert.fnmt.es
@@ -64,6 +62,7 @@ qtlsca2018-ocsp2.e-szigno.hu
 qtlsca2018-ocsp3.e-szigno.hu
 servicesca.ocsp.certigna.fr
 servicesca.ocsp.dhimyotis.com
+ssl-c3-ca1-2009.ocsp.d-trust.net
 ssl-c3-ca1-ev-2009.ocsp.d-trust.net
 subadvecccag2.ocsp.secom-cert.jp
 subcar2i2-ocsp.disig.sk

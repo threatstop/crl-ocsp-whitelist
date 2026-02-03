@@ -21,12 +21,14 @@ crl.e2m04.amazontrust.com
 crl.e3m04.amazontrust.com
 crl.emsign.com
 crl.firmaprofesional.com
+crl.gdca.com.cn
 crl.global.sheca.com
 crl.globalsign.com
 crl.godaddy.com
 crl.harica.gr
 crl.izenpe.com
 crl.r2m01.amazontrust.com
+crl.r2m04.amazontrust.com
 crl.r4m04.amazontrust.com
 crl.sectigo.com
 crl.serverid.telesec.de
@@ -45,12 +47,9 @@ crl4.digicert.com
 crls.certainly.com
 crls.ssl.com
 depo.kamusm.gov.tr
-e8.c.lencr.org
+e7.c.lencr.org
 eqtlsca2018-crl1.e-szigno.hu
-eqtlsca2018-crl2.e-szigno.hu
-eqtlsca2018-crl3.e-szigno.hu
 evcrl.cybertrust.ne.jp
-gdcaov.crl.certum.pl
 httpcrl.trust.telia.com
 ica.navercorp.com
 pki-crl.atos.net
@@ -63,7 +62,6 @@ r13.c.lencr.org
 repo.bjca.cn
 repo1.secom-cert.jp
 repository.tls.hinet.net
-service.globaltrust.eu
 sslserver.twca.com.tw
 validation.identrust.com
 wtca-crl.itrus.com.cn
